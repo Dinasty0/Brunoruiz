@@ -29,6 +29,7 @@ img, object, embed, video { max-width: 100%; }
 .azcl {color: #3498db;}
 .azosc {color: #2980b9;}
 .sil {color: #bdc3c7;}
+.mag {color: #E6007E;}
 /* ---- FIN CSS COLOR TEXTO ---- */
 
 /* ----  BACKGROUND  ---- */
@@ -41,6 +42,7 @@ img, object, embed, video { max-width: 100%; }
 .azcl-bg { background-color: #3498db; }
 .azosc-bg { background-color: #2980b9; }
 .sil-bg { background-color: #bdc3c7; }
+.mag-bg { background-color: #E6007E; }
 /* ----  FIN BACKGROUND  ---- */
 
 /* ----  BORDES  ---- */
@@ -169,6 +171,32 @@ img, object, embed, video { max-width: 100%; }
 	border-left: 1px solid transparent;
 	border-right: 1px solid #D92222;
 }
+.mag-br1 { border: 1px solid #E6007E; }
+.dw-mag-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid #E6007E;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.up-mag-br1 {
+	border-top: 1px solid #E6007E;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.izq-mag-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid #E6007E;
+	border-right: 1px solid transparent;
+}
+.dech-mag-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid #E6007E;
+}
+.mag-br2 { border: 2px solid #E6007E; }
 .ro-br2 { border: 2px solid #D92222; }
 .rosc-br1 { border: 1px solid #c0392b; }
 .rosc-br2 { border: 2px solid #c0392b; }

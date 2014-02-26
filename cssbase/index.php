@@ -43,6 +43,7 @@
             <li class="ne">ne</li>
             <li class="bl">bl</li>
             <li class="sil">sil</li>
+            <li class="mag">mag</li>
             <div class="borrar"></div>
           </ul>
         </article>
@@ -60,6 +61,7 @@
             <li class="ne-bg bl">ne-bg</li>
             <li class="bl-bg">bl-bg</li>
             <li class="sil-bg">sil-bg</li>
+            <li class="mag-bg">mag-bg</li>
             <div class="borrar"></div>
           </ul>
         </article>
@@ -116,6 +118,16 @@
             <li class="up-bl-br2">up-bl-br2</li>
             <li class="izq-bl-br2">izq-bl-br2</li>
             <li class="dech-bl-br2">dech-bl-br2</li>
+            <li class="mag-br1">mag-br1</li>
+            <li class="dw-mag-br1">dw-mag-br1</li>
+            <li class="up-mag-br1">up-mag-br1</li>
+            <li class="izq-mag-br1">izq-mag-br1</li>
+            <li class="dech-mag-br1">dech-mag-br1</li>
+            <li class="mag-br2">mag-br2</li>
+            <li class="dw-mag-br2">dw-mag-br2</li>
+            <li class="up-mag-br2">up-mag-br2</li>
+            <li class="izq-mag-br2">izq-mag-br2</li>
+            <li class="dech-mag-br2">dech-mag-br2</li>
             <li class="azcl-br1">azcl-br1</li>
             <li class="azosc-br1">azosc-br1</li>
             <li class="sil-br1">sil-br1</li>
