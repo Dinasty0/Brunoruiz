@@ -6,8 +6,8 @@
     <meta charset="utf-8" />
 
     <title>Clases basicas css</title>
-    <link rel="stylesheet" type="text/css" href="css/base.css">
-    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <link rel="stylesheet" type="text/css" href="css/cssbase.css">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
