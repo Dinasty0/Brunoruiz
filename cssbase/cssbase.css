@@ -1,1 +1,339 @@
-codigo css
+/* Diseñado por Bruno ruiz */
+/* http://www.brunoruiz.es */
+/* Versión: 0.1; */
+/* Fecha: 25-nov-2013; */
+
+/* ---- CSS GLOBAL ---- */
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: arial,helvetica;
+	font-size: 1.0em;
+}
+img, object, embed, video { max-width: 100%; }
+/* ---- FIN CSS GLOBAL ---- */
+
+/* ---- CSS ORIENTACIÓN ---- */
+.izq {float: left;}
+.dech {float: right;}
+.borrar {clear: both;}
+/* ---- FIN CSS ORIENTACIÓN ---- */
+
+/* ---- CSS COLOR TEXTO ---- */
+.bl {color: white;}
+.ne {color: black}
+.ro {color: #D92222;}
+.rosc {color: #c0392b;}
+.vecl {color: #2ecc71;}
+.veosc {color: #2ecc71;}
+.azcl {color: #3498db;}
+.azosc {color: #2980b9;}
+.sil {color: #bdc3c7;}
+/* ---- FIN CSS COLOR TEXTO ---- */
+
+/* ----  BACKGROUND  ---- */
+.ne-bg { background-color: black; }
+.bl-bg { background-color: white; }
+.ro-bg { background-color: #D92222; }
+.rosc-bg { background-color: #c0392b; }
+.vecl-bg { background-color: #2ecc71; }
+.veosc-bg { background-color: #27ae60; }
+.azcl-bg { background-color: #3498db; }
+.azosc-bg { background-color: #2980b9; }
+.sil-bg { background-color: #bdc3c7; }
+/* ----  FIN BACKGROUND  ---- */
+
+/* ----  BORDES  ---- */
+.bl-br1 { border: 1px solid white; }
+.dw-bl-br1 { 
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid white;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.up-bl-br1 { 
+	border-top: 1px solid white;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.izq-bl-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid white;
+	border-right: 1px solid transparent;
+}
+.dech-bl-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid white;
+}
+.bl-br2 { border: 2px solid white; }
+.dw-bl-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid white;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.up-bl-br2 {
+	border-top: 2px solid white;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.izq-bl-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid white;
+	border-right: 2px solid transparent;
+}
+.dech-bl-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid white;
+}
+.ne-br1 { border: 1px solid black; }
+.dw-ne-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid black;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.up-ne-br1 {
+	border-top: 1px solid black;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.izq-ne-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid black;
+	border-right: 1px solid transparent;
+}
+.dech-ne-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid black;
+}
+.ne-br2 { border: 2px solid black; }
+.dw-ne-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid black;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.up-ne-br2 {
+	border-top: 2px solid black;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.izq-ne-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid black;
+	border-right: 2px solid transparent;
+}
+.dech-ne-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid black;
+}
+.ro-br1 { border: 1px solid #D92222; }
+.dw-ro-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid #D92222;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.up-ro-br1 {
+	border-top: 1px solid #D92222;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.izq-ro-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid #D92222;
+	border-right: 1px solid transparent;
+}
+.dech-ro-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid #D92222;
+}
+.ro-br2 { border: 2px solid #D92222; }
+.rosc-br1 { border: 1px solid #c0392b; }
+.rosc-br2 { border: 2px solid #c0392b; }
+.vecl-br1 { border: 1px solid #2ecc71; }
+.dw-vecl-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid #2ecc71;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.up-vecl-br1 {
+	border-top: 1px solid #2ecc71;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.izq-vecl-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid #2ecc71;
+	border-right: 1px solid transparent;
+}
+.dech-vecl-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid #2ecc71;
+}
+.vecl-br2 { border: 2px solid #2ecc71; }
+.dw-vecl-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid #2ecc71;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.up-vecl-br2 {
+	border-top: 2px solid #2ecc71;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.izq-vecl-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid #2ecc71;
+	border-right: 2px solid transparent;
+}
+.dech-vecl-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid #2ecc71;
+}
+.veosc-br1 { border: 1px solid #27ae60; }
+.dw-veosc-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid #27ae60;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.up-veosc-br1 {
+	border-top: 1px solid #27ae60;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.izq-veosc-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid #27ae60;
+	border-right: 1px solid transparent;
+}
+.dech-veosc-br1 {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid #27ae60;
+}
+.veosc-br2 { border: 2px solid #27ae60; }
+.dw-veosc-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid #27ae60;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.up-veosc-br2 {
+	border-top: 2px solid #27ae60;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid transparent;
+}
+.izq-veosc-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid #27ae60;
+	border-right: 2px solid transparent;
+}
+.dech-veosc-br2 {
+	border-top: 2px solid transparent;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-right: 2px solid #27ae60;
+}
+.azcl-br1 { border: 1px solid #3498db; }
+.azosc-br1 { border: 1px solid #2980b9; }
+.sil-br1 { border: 1px solid #bdc3c7; }
+.sil-br2 { border: 2px solid #bdc3c7; }
+/* ----  FIN BORDES  ---- */
+
+/* ----  CABECERAS  ---- */
+h1, h2, h3, h4, h5, h6{font-weight: bold;}
+h1 { font-size: 2.0em; }
+h2 { font-size: 1.7em; }
+h3 { font-size: 1.4em; }
+h4 { font-size: 1.1em; }
+/* ----  FIN CABECERAS  ---- */
+
+/* ----  CAJAS TAMAÑOS  ---- */
+.peq { width: 50px; }
+.med { width: 100px; }
+.lg { width: 200px; }
+/* ----  FIN INPUT TAMAÑOS  ---- */
+
+/* ----  INPUT BOTONES  ---- */
+.btazul[type="button"] {
+	background-color: #2980b9;
+}
+.btazul[type="button"]:hover {
+	background-color: #3498db;
+}
+/* ----  FIN INPUT BOTONES  ---- */
+
+/* ----  INPUT SUBMIT / RESET  ---- */
+.btsi[type="submit"] { 
+	color: white;
+	border-radius: 2px;
+	border: 1px solid #27ae60; 
+	background-color: #27ae60; 
+}
+.btsi[type="submit"]:hover { 
+	background-color: #2ecc71;
+	border: 1px solid #27ae60;
+}
+.btno[type="reset"] {
+	color: white;
+	border-radius: 2px;
+	border: 1px solid #c0392b;
+	background-color: #c0392b; 
+}
+.btno[type="reset"]:hover {
+	border: 1px solid #c0392b;
+	background-color: #e74c3c; 
+}
+/* ----  FIN INPUT SUBMIT / RESET   ---- */
+
+/* ----  NOTIFICACIONES  ---- */
+.aler-ro { background-color: #D92222; }
+.aler-rosc { background-color: #E06A5D; }
+.aler-rocl { background-color: #F0AAA2; }
+.noti-veosc { background-color: #288C53; }
+.noti-vecl { background-color: #7BD7A3; }
+/* ----  FIN NOTIFICACIONES  ---- */
+
+/* ----  PADDING  ---- */
+.pd2 { padding: 2px !important; }
+.pd5 { padding: 5px !important; }
+.pd10 {	padding: 10px !important; }
+/* ----  FIN PADDING  ---- */
