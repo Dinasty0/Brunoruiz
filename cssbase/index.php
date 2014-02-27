@@ -44,6 +44,7 @@
             <li class="bl">bl</li>
             <li class="sil">sil</li>
             <li class="mag">mag</li>
+            <li class="magosc">magosc</li>
             <div class="borrar"></div>
           </ul>
         </article>
@@ -62,6 +63,7 @@
             <li class="bl-bg">bl-bg</li>
             <li class="sil-bg">sil-bg</li>
             <li class="mag-bg">mag-bg</li>
+            <li class="magosc-bg">magosc-bg</li>
             <div class="borrar"></div>
           </ul>
         </article>
@@ -124,6 +126,8 @@
             <li class="izq-mag-br1">izq-mag-br1</li>
             <li class="dech-mag-br1">dech-mag-br1</li>
             <li class="mag-br2">mag-br2</li>
+            <li class="magosc-br1">magosc-br1</li>
+            <li class="magosc-br2">mag-br2</li>
             <li class="dw-mag-br2">dw-mag-br2</li>
             <li class="up-mag-br2">up-mag-br2</li>
             <li class="izq-mag-br2">izq-mag-br2</li>

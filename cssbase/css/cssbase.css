@@ -30,6 +30,7 @@ img, object, embed, video { max-width: 100%; }
 .azosc {color: #2980b9;}
 .sil {color: #bdc3c7;}
 .mag {color: #E6007E;}
+.magosc {color: #960052;}
 /* ---- FIN CSS COLOR TEXTO ---- */
 
 /* ----  BACKGROUND  ---- */
@@ -43,6 +44,7 @@ img, object, embed, video { max-width: 100%; }
 .azosc-bg { background-color: #2980b9; }
 .sil-bg { background-color: #bdc3c7; }
 .mag-bg { background-color: #E6007E; }
+.magosc-bg { background-color: #960052; }
 /* ----  FIN BACKGROUND  ---- */
 
 /* ----  BORDES  ---- */
@@ -197,6 +199,8 @@ img, object, embed, video { max-width: 100%; }
 	border-right: 1px solid #E6007E;
 }
 .mag-br2 { border: 2px solid #E6007E; }
+.magosc-br1 { border: 1px solid #960052; }
+.magosc-br2 { border: 2px solid #960052; }
 .ro-br2 { border: 2px solid #D92222; }
 .rosc-br1 { border: 1px solid #c0392b; }
 .rosc-br2 { border: 2px solid #c0392b; }
