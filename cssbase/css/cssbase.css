@@ -22,13 +22,18 @@ img, object, embed, video { max-width: 100%; }
 /* ---- CSS COLOR TEXTO ---- */
 .bl {color: white;}
 .ne {color: black}
+
 .ro {color: #D92222;}
 .rosc {color: #c0392b;}
+
 .vecl {color: #2ecc71;}
 .veosc {color: #2ecc71;}
+
 .azcl {color: #3498db;}
 .azosc {color: #2980b9;}
+
 .sil {color: #bdc3c7;}
+
 .mag {color: #E6007E;}
 .magosc {color: #960052;}
 /* ---- FIN CSS COLOR TEXTO ---- */
@@ -36,13 +41,18 @@ img, object, embed, video { max-width: 100%; }
 /* ----  BACKGROUND  ---- */
 .ne-bg { background-color: black; }
 .bl-bg { background-color: white; }
+
 .ro-bg { background-color: #D92222; }
 .rosc-bg { background-color: #c0392b; }
+
 .vecl-bg { background-color: #2ecc71; }
 .veosc-bg { background-color: #27ae60; }
+
 .azcl-bg { background-color: #3498db; }
 .azosc-bg { background-color: #2980b9; }
+
 .sil-bg { background-color: #bdc3c7; }
+
 .mag-bg { background-color: #E6007E; }
 .magosc-bg { background-color: #960052; }
 /* ----  FIN BACKGROUND  ---- */
@@ -360,6 +370,7 @@ h4 { font-size: 1.1em; }
 .aler-ro { background-color: #D92222; }
 .aler-rosc { background-color: #E06A5D; }
 .aler-rocl { background-color: #F0AAA2; }
+
 .noti-veosc { background-color: #288C53; }
 .noti-vecl { background-color: #7BD7A3; }
 /* ----  FIN NOTIFICACIONES  ---- */

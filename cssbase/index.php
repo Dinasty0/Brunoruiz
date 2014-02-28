@@ -82,6 +82,7 @@
             <li class="up-ne-br2">up-ne-br2</li>
             <li class="izq-ne-br2">izq-ne-br2</li>
             <li class="dech-ne-br2">dech-ne-br2</li>
+
             <li class="vecl-br1">vecl-br1</li>
             <li class="dw-vecl-br1">dw-vecl-br1</li>
             <li class="up-vecl-br1">up-vecl-br1</li>
@@ -102,6 +103,7 @@
             <li class="up-veosc-br2">up-veosc-br2</li>
             <li class="izq-veosc-br2">izq-veosc-br2</li>
             <li class="dech-veosc-br2">dech-veosc-br2</li>
+
             <li class="ro-br1">ro-br1</li>
             <li class="dw-ro-br1">dw-ro-br1</li>
             <li class="up-ro-br1">up-ro-br1</li>
@@ -110,6 +112,7 @@
             <li class="ro-br2">ro-br2</li>
             <li class="rosc-br1">rosc-br1</li>
             <li class="rosc-br2">rosc-br2</li>
+
             <li class="bl-br1">bl-br1</li>
             <li class="dw-bl-br1">dw-bl-br1</li>
             <li class="up-bl-br1">up-bl-br1</li>
@@ -120,6 +123,7 @@
             <li class="up-bl-br2">up-bl-br2</li>
             <li class="izq-bl-br2">izq-bl-br2</li>
             <li class="dech-bl-br2">dech-bl-br2</li>
+
             <li class="mag-br1">mag-br1</li>
             <li class="dw-mag-br1">dw-mag-br1</li>
             <li class="up-mag-br1">up-mag-br1</li>
@@ -132,8 +136,10 @@
             <li class="up-mag-br2">up-mag-br2</li>
             <li class="izq-mag-br2">izq-mag-br2</li>
             <li class="dech-mag-br2">dech-mag-br2</li>
+
             <li class="azcl-br1">azcl-br1</li>
             <li class="azosc-br1">azosc-br1</li>
+            
             <li class="sil-br1">sil-br1</li>
             <li class="sil-br2">sil-br2</li>
             <div class="borrar"></div>
