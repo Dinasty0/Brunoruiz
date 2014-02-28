@@ -172,7 +172,17 @@
               <li class="up-azcl-br1">up-azcl-br1</li>
               <li class="izq-azcl-br1">izq-azcl-br1</li>
               <li class="dech-azcl-br1">dech-azcl-br1</li>
+            <li class="azcl-br2">azcl-br2</li>
+              <li class="dw-azcl-br2">dw-azcl-br2</li>
+              <li class="up-azcl-br2">up-azcl-br2</li>
+              <li class="izq-azcl-br2">izq-azcl-br2</li>
+              <li class="dech-azcl-br2">dech-azcl-br2</li>
             <li class="azosc-br1">azosc-br1</li>
+              <li class="dw-azosc-br1">dw-azosc-br1</li>
+              <li class="up-azosc-br1">up-azosc-br1</li>
+              <li class="izq-azosc-br1">izq-azosc-br1</li>
+              <li class="dech-azosc-br1">dech-azosc-br1</li>
+            <li class="azosc-br2">azosc-br2</li>
               <li class="dw-azosc-br2">dw-azosc-br2</li>
               <li class="up-azosc-br2">up-azosc-br2</li>
               <li class="izq-azosc-br2">izq-azosc-br2</li>

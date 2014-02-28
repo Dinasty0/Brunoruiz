@@ -1,7 +1,7 @@
 /* Diseñado por Bruno ruiz */
 /* http://www.brunoruiz.es */
-/* Versión: 0.2; */
-/* Fecha: 26-feb-2014; */
+/* Versión: 0.3; */
+/* Fecha: 28-feb-2014; */
 
 /* ---- CSS GLOBAL ---- */
 * {
@@ -493,6 +493,31 @@ img, object, embed, video { max-width: 100%; }
 		border-left: 1px solid transparent;
 		border-right: 1px solid #3498db;
 	}
+.azcl-br2 { border: 2px solid #3498db; }
+	.dw-azcl-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid #3498db;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.up-azcl-br2 {
+		border-top: 2px solid #3498db;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.izq-azcl-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid #3498db;
+		border-right: 2px solid transparent;
+	}
+	.dech-azcl-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid #3498db;
+	}
 .azosc-br1 { border: 1px solid #2980b9; }
 	.dw-azosc-br1 {
 		border-top: 1px solid transparent;
@@ -518,6 +543,32 @@ img, object, embed, video { max-width: 100%; }
 		border-left: 1px solid transparent;
 		border-right: 1px solid #2980b9;
 	}
+.azosc-br2 { border: 2px solid #2980b9; }
+	.dw-azosc-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid #2980b9;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.up-azosc-br2 {
+		border-top: 2px solid #2980b9;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.izq-azosc-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid #2980b9;
+		border-right: 2px solid transparent;
+	}
+	.dech-azosc-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid #2980b9;
+	}
+
 
 
 .sil-br1 { border: 1px solid #bdc3c7; }
