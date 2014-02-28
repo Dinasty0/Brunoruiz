@@ -136,6 +136,10 @@
               <li class="izq-ro-br2">izq-ro-br2</li>
               <li class="dech-ro-br2">dech-ro-br2</li>
             <li class="rosc-br1">rosc-br1</li>
+              <li class="dw-rosc-br1">dw-rosc-br1</li>
+              <li class="up-rosc-br1">up-rosc-br1</li>
+              <li class="izq-rosc-br1">izq-rosc-br1</li>
+              <li class="dech-rosc-br1">dech-rosc-br1</li>
             <li class="rosc-br2">rosc-br2</li>
               <li class="dw-rosc-br2">dw-rosc-br2</li>
               <li class="up-rosc-br2">up-rosc-br2</li>
@@ -153,13 +157,37 @@
               <li class="izq-mag-br2">izq-mag-br2</li>
               <li class="dech-mag-br2">dech-mag-br2</li>
             <li class="magosc-br1">magosc-br1</li>
-            <li class="magosc-br2">mag-br2</li>
+              <li class="dw-magosc-br1">dw-magosc-br1</li>
+              <li class="up-magosc-br1">up-magosc-br1</li>
+              <li class="izq-magosc-br1">izq-magosc-br1</li>
+              <li class="dech-magosc-br1">dech-magosc-br1</li>
+            <li class="magosc-br2">magosc-br2</li>
+              <li class="dw-magosc-br2">dw-magosc-br2</li>
+              <li class="up-magosc-br2">up-magosc-br2</li>
+              <li class="izq-magosc-br2">izq-magosc-br2</li>
+              <li class="dech-magosc-br2">dech-magosc-br2</li>
 
             <li class="azcl-br1">azcl-br1</li>
+              <li class="dw-azcl-br1">dw-azcl-br1</li>
+              <li class="up-azcl-br1">up-azcl-br1</li>
+              <li class="izq-azcl-br1">izq-azcl-br1</li>
+              <li class="dech-azcl-br1">dech-azcl-br1</li>
             <li class="azosc-br1">azosc-br1</li>
+              <li class="dw-azosc-br2">dw-azosc-br2</li>
+              <li class="up-azosc-br2">up-azosc-br2</li>
+              <li class="izq-azosc-br2">izq-azosc-br2</li>
+              <li class="dech-azosc-br2">dech-azosc-br2</li>
 
             <li class="sil-br1">sil-br1</li>
+              <li class="dw-sil-br1">dw-sil-br1</li>
+              <li class="up-sil-br1">up-sil-br1</li>
+              <li class="izq-sil-br1">izq-sil-br1</li>
+              <li class="dech-sil-br1">dech-sil-br1</li>
             <li class="sil-br2">sil-br2</li>
+              <li class="dw-sil-br2">dw-sil-br2</li>
+              <li class="up-sil-br2">up-sil-br2</li>
+              <li class="izq-sil-br2">izq-sil-br2</li>
+              <li class="dech-sil-br2">dech-sil-br2</li>
             <div class="borrar"></div>
           </ul>
         </article>

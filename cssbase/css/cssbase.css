@@ -213,6 +213,30 @@ img, object, embed, video { max-width: 100%; }
 		border-right: 2px solid #D92222;
 	}
 .rosc-br1 { border: 1px solid #c0392b; }
+	.dw-rosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid #c0392b;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.up-rosc-br1 {
+		border-top: 1px solid #c0392b;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.izq-rosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid #c0392b;
+		border-right: 1px solid transparent;
+	}
+	.dech-rosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid #c0392b;
+	}
 .rosc-br2 { border: 2px solid #c0392b; }
 	.dw-rosc-br2 {
 		border-top: 2px solid transparent;
@@ -266,8 +290,80 @@ img, object, embed, video { max-width: 100%; }
 		border-right: 1px solid #E6007E;
 	}
 .mag-br2 { border: 2px solid #E6007E; }
+	.dw-mag-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid #E6007E;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.up-mag-br2 {
+		border-top: 2px solid #E6007E;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.izq-mag-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid #E6007E;
+		border-right: 2px solid transparent;
+	}
+	.dech-mag-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid #E6007E;
+	}
 .magosc-br1 { border: 1px solid #960052; }
+	.dw-magosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid #960052;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.up-magosc-br1 {
+		border-top: 1px solid #960052;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.izq-magosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid #960052;
+		border-right: 1px solid transparent;
+	}
+	.dech-magosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid #960052;
+	}
 .magosc-br2 { border: 2px solid #960052; }
+	.dw-magosc-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid #960052;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.up-magosc-br2 {
+		border-top: 2px solid #960052;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.izq-magosc-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid #960052;
+		border-right: 2px solid transparent;
+	}
+	.dech-magosc-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid #960052;
+	}
 
 
 .vecl-br1 { border: 1px solid #2ecc71; }
@@ -373,11 +469,107 @@ img, object, embed, video { max-width: 100%; }
 
 
 .azcl-br1 { border: 1px solid #3498db; }
+	.dw-azcl-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid #3498db;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.up-azcl-br1 {
+		border-top: 1px solid #3498db;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.izq-azcl-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid #3498db;
+		border-right: 1px solid transparent;
+	}
+	.dech-azcl-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid #3498db;
+	}
 .azosc-br1 { border: 1px solid #2980b9; }
+	.dw-azosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid #2980b9;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.up-azosc-br1 {
+		border-top: 1px solid #2980b9;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.izq-azosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid #2980b9;
+		border-right: 1px solid transparent;
+	}
+	.dech-azosc-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid #2980b9;
+	}
 
 
 .sil-br1 { border: 1px solid #bdc3c7; }
+	.dw-sil-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid #bdc3c7;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.up-sil-br1 {
+		border-top: 1px solid #bdc3c7;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+	.izq-sil-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid #bdc3c7;
+		border-right: 1px solid transparent;
+	}
+	.dech-sil-br1 {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		border-left: 1px solid transparent;
+		border-right: 1px solid #bdc3c7;
+	}
 .sil-br2 { border: 2px solid #bdc3c7; }
+	.dw-sil-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid #bdc3c7;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.up-sil-br2 {
+		border-top: 2px solid #bdc3c7;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid transparent;
+	}
+	.izq-sil-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid #bdc3c7;
+		border-right: 2px solid transparent;
+	}
+	.dech-sil-br2 {
+		border-top: 2px solid transparent;
+		border-bottom: 2px solid transparent;
+		border-left: 2px solid transparent;
+		border-right: 2px solid #bdc3c7;
+	}
 /* ----  FIN BORDES  ---- */
 
 /* ----  CABECERAS  ---- */
