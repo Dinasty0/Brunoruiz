@@ -36,13 +36,18 @@
           <ul id="cltx">
             <li class="ro">ro</li>
             <li class="rosc">rosc</li>
+
             <li class="vecl">vecl</li>
             <li class="veosc">veosc</li>
+
             <li class="azcl">azcl</li>
             <li class="azosc">azosc</li>
+
             <li class="ne">ne</li>
             <li class="bl">bl</li>
+
             <li class="sil">sil</li>
+
             <li class="mag">mag</li>
             <li class="magosc">magosc</li>
             <div class="borrar"></div>
@@ -55,13 +60,18 @@
           <ul id="clbg">
             <li class="ro-bg">ro-bg</li>
             <li class="rosc-bg">rosc-bg</li>
+
             <li class="vecl-bg">vecl-bg</li>
             <li class="veosc-bg">veosc-bg</li>
+
             <li class="azcl-bg">azcl-bg</li>
             <li class="azosc-bg">azosc-bg</li>
+
             <li class="ne-bg bl">ne-bg</li>
             <li class="bl-bg">bl-bg</li>
+
             <li class="sil-bg">sil-bg</li>
+
             <li class="mag-bg">mag-bg</li>
             <li class="magosc-bg">magosc-bg</li>
             <div class="borrar"></div>
@@ -121,8 +131,16 @@
               <li class="izq-ro-br1">izq-ro-br1</li>
               <li class="dech-ro-br1">dech-ro-br1</li>
             <li class="ro-br2">ro-br2</li>
+              <li class="dw-ro-br2">dw-ro-br2</li>
+              <li class="up-ro-br2">up-ro-br2</li>
+              <li class="izq-ro-br2">izq-ro-br2</li>
+              <li class="dech-ro-br2">dech-ro-br2</li>
             <li class="rosc-br1">rosc-br1</li>
             <li class="rosc-br2">rosc-br2</li>
+              <li class="dw-rosc-br2">dw-rosc-br2</li>
+              <li class="up-rosc-br2">up-rosc-br2</li>
+              <li class="izq-rosc-br2">izq-rosc-br2</li>
+              <li class="dech-rosc-br2">dech-rosc-br2</li>
 
             <li class="mag-br1">mag-br1</li>
               <li class="dw-mag-br1">dw-mag-br1</li>
