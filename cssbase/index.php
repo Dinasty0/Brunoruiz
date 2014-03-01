@@ -214,6 +214,35 @@
         </article>
 
         <article>
+          <h3>Columnas</h3>
+          <span>Podrás crear columnas con tus texto.</span>
+          <ul id="cltx">
+            <li>2 Columnas - Añadir la clase al "ul" --> "col-2" y añadir la clase al "li" --> "col"
+              <ul class="col-2">
+                <li class="col">Lorem ipsum consectetur adipis icing elit. Fugit, at, ipsamdolor sit amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+                <li class="col">Lorem ipsum dolor sit consectetur adipisicing elit. Fugit, at, ipsam amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+              </ul>
+            </li>
+            <li>3 Columnas - Añadir la clase al "ul" --> "col-3" y añadir la clase al "li" --> "col"
+              <ul class="col-3">
+                <li class="col">Lorem ipsum consectetur adipis icing elit. Fugit, at, ipsamdolor sit amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+                <li class="col">Lorem ipsum dolor sit consectetur adipisicing elit. Fugit, at, ipsam amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+                <li class="col">Lorem ipsum dolor sit consectetur adipisicing elit. Fugit, at, ipsam amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+              </ul>
+            </li>
+            <li>4 Columnas - Añadir la clase al "ul" --> "col-4" y añadir la clase al "li" --> "col"
+              <ul class="col-4">
+                <li class="col">Lorem ipsum consectetur adipis icing elit. Fugit, at, ipsamdolor sit amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+                <li class="col">Lorem ipsum dolor sit consectetur adipisicing elit. Fugit, at, ipsam amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+                <li class="col">Lorem ipsum consectetur adipis icing elit. Fugit, at, ipsamdolor sit amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+                <li class="col">Lorem ipsum dolor sit consectetur adipisicing elit. Fugit, at, ipsam amet, consectetur adipisicing elit. Fugit, at, ipsam</li>
+              </ul>
+            </li>
+            <div class="borrar"></div>
+          </ul>
+        </article>
+
+        <article>
           <h3>Orientación izquierda o derecha</h3>
           <span>Para orientar una caja, simplemente habra que añadir la clase correspondiente descrita abajo.</span>
           <br/>

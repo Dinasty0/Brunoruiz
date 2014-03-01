@@ -1,7 +1,7 @@
 /* Diseñado por Bruno ruiz */
 /* http://www.brunoruiz.es */
-/* Versión: 0.3; */
-/* Fecha: 28-feb-2014; */
+/* Versión: 0.4; */
+/* Fecha: 01-mar-2014; */
 
 /* ---- CSS GLOBAL ---- */
 * {
@@ -622,6 +622,14 @@ img, object, embed, video { max-width: 100%; }
 		border-right: 2px solid #bdc3c7;
 	}
 /* ----  FIN BORDES  ---- */
+
+/* ----  COLUMNAS  ---- */
+.col-2, .col-3, .col-4 { list-style-type: none; }
+
+.col-2 .col { width: 47% ;margin: 0px 6% 0px 0px; float: left; }
+.col-3 .col { width: 29% ;margin: 0px 6% 0px 0px; float: left; }
+.col-4 .col { width: 20.5% ;margin: 0px 6% 0px 0px; float: left; }
+/* ----  FIN COLUMNAS  ---- */
 
 /* ----  CABECERAS  ---- */
 h1, h2, h3, h4, h5, h6{font-weight: bold;}
