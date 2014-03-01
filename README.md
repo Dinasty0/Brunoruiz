@@ -1,7 +1,7 @@
 Indice:
 =========
 
-* cssbase: --> Hoja de estilo predefinida, para agilizar la creación de diseño de una web.
+* estilosbr: --> Hoja de estilo predefinida, para agilizar la creación de diseño de una web.
 
 =========
 
