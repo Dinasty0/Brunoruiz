@@ -1,10 +1,15 @@
 /* Diseñado por Bruno ruiz */
 /* http://www.brunoruiz.es */
-/* Versión: 0.5; */
+/* Versión: 0.4; */
 /* Fecha: 01-mar-2014; */
 
 /* ---- CSS GLOBAL ---- */
-* {padding: 0px;margin: 0px;font-family: arial,helvetica;font-size: 1.0em;}
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: arial,helvetica;
+	font-size: 1.0em;
+}
 img, object, embed, video { max-width: 100%; }
 /* ---- FIN CSS GLOBAL ---- */
 
