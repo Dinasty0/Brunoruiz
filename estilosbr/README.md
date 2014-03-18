@@ -6,6 +6,7 @@ Utilidades:
 * Color bordes
 * Tamaño padding
 * Columnas
+* Listas con iconos
 * Alinear objeto
 * Tamaños H
 * Tamaños input
