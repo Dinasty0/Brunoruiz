@@ -13,3 +13,6 @@ EFECTOS AVANZADOS:
 * brslided --> Se desplaza la imagen hacia la izq. y aparece texto por la derecha.
 * brslidedw --> Se bajo la imagen y aparece texto.
 * brup --> Se eleva un poco la imagen y aparece texto a media altura.
+
+=========
+PROXIMAMENTE
