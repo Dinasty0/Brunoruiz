@@ -628,86 +628,207 @@ img, object, embed, video { max-width: 100%; }
 	/* La estructura es: list-tipoForma-colorTexto-colorFondo-borde-icono;
 	list-"cua" o "cir"-"color del texto, sino tiene se hereda"-"Color del fondo"-"elegir tam,color,tipo de borde, sino se hereda"-"el tipo de icono" */
 
-	/* NEGRO */
-		/* CUADRADO */
-			.list-cua-ne-blbg-sigmayor li:before {
-				content: "›";
-				color: black;
-				line-height: 22px;
-				padding: 0 5px;
-				margin-right: 5px;
-				background-color: white;
-			}
-			.list-cua-ne-veclbg-sigmayor li:before {
-				content: "›";
-				color: black;
-				line-height: 22px;
-				padding: 0 5px;
-				margin-right: 5px;
-				background-color: #2ecc71;
-			}
-			.list-cua-ne-veosc-sigmayor li:before {
-				content: "›";
-				line-height: 22px;
-				color: black;
-				padding: 0 5px;
-				margin-right: 5px;
-				background-color: #27ae60;
-			}
-		/* FIN CUADRADO */
-		/* CIRCULO */
-			.list-cir-ne-blbg-sigmayor li:before {
-				content: "›";
-				color: black;
-				line-height: 22px;
-				padding: 0 6px;
-				margin-right: 5px;
-				background-color: white;
-				border-radius: 22px;
-			}
-		/* FIN CIRCULO */
-	/* FIN NEGRO */
+	/* SIGMAYOR */
+		/* NEGRO */
+			/* CUADRADO */
+				.list-cua-ne-blbg-sigmayor li:before {
+					content: "›";
+					color: black;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: white;
+				}
+				.list-cua-ne-veclbg-sigmayor li:before {
+					content: "›";
+					color: black;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #2ecc71;
+				}
+				.list-cua-ne-veosc-sigmayor li:before {
+					content: "›";
+					line-height: 22px;
+					color: black;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #27ae60;
+				}
+			/* FIN CUADRADO */
+			/* CIRCULO */
+				.list-cir-ne-blbg-sigmayor li:before {
+					content: "›";
+					color: black;
+					line-height: 22px;
+					padding: 0 6px;
+					margin-right: 5px;
+					background-color: white;
+					border-radius: 22px;
+				}
+			/* FIN CIRCULO */
+			/* VACIO */
+				.list-ne-sigmayor li:before {
+					content: "›";
+					color: black;
+					line-height: 22px;
+					padding: 0 6px;
+					margin-right: 5px;
+				}
+			/* FIN VACIO */
+		/* FIN NEGRO */
 
-	/* BLANCO */
-		/* CUADRADO */
-			.list-cua-bl-nebg-sigmayor li:before {
-				content: "›";
-				color: white;
-				line-height: 22px;
-				padding: 0 5px;
-				margin-right: 5px;
-				background-color: black;
-			}
-			.list-cua-bl-veclbg-sigmayor li:before {
-				content: "›";
-				color: white;
-				line-height: 22px;
-				padding: 0 5px;
-				margin-right: 5px;
-				background-color: #2ecc71;
-			}
+		/* BLANCO */
+			/* CUADRADO */
+				.list-cua-bl-nebg-sigmayor li:before {
+					content: "›";
+					color: white;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: black;
+				}
+				.list-cua-bl-veclbg-sigmayor li:before {
+					content: "›";
+					color: white;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #2ecc71;
+				}
 
-			.list-cua-bl-veosc-sigmayor li:before {
-				content: "›";
-				line-height: 22px;
-				color: white;
-				padding: 0 5px;
-				margin-right: 5px;
-				background-color: #27ae60;
-			}
-		/* FIN CUADRADO */
-		/* CIRCULO */
-			.list-cir-bl-nebg-sigmayor li:before {
-				content: "›";
-				color: white;
-				line-height: 22px;
-				padding: 0 6px;
-				margin-right: 5px;
-				background-color: black;
-				border-radius: 22px;
-			}
-		/* FIN CIRCULO */
-	/* FIN BLANCO */
+				.list-cua-bl-veosc-sigmayor li:before {
+					content: "›";
+					line-height: 22px;
+					color: white;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #27ae60;
+				}
+			/* FIN CUADRADO */
+			/* CIRCULO */
+				.list-cir-bl-nebg-sigmayor li:before {
+					content: "›";
+					color: white;
+					line-height: 22px;
+					padding: 0 6px;
+					margin-right: 5px;
+					background-color: black;
+					border-radius: 22px;
+				}
+			/* FIN CIRCULO */
+			/* VACIO */
+				.list-bl-sigmayor li:before {
+					content: "›";
+					color: white;
+					line-height: 22px;
+					padding: 0 6px;
+					margin-right: 5px;
+				}
+			/* FIN VACIO */
+		/* FIN BLANCO */
+	/* FIN SIGMAYOR */
+
+	/* SIGMAYOR2 */
+		/* NEGRO */
+			/* CUADRADO */
+				.list-cua-ne-blbg-sigmayor2 li:before {
+					content: "»";
+					color: black;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: white;
+				}
+				.list-cua-ne-veclbg-sigmayor2 li:before {
+					content: "»";
+					color: black;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #2ecc71;
+				}
+				.list-cua-ne-veosc-sigmayor2 li:before {
+					content: "»";
+					line-height: 22px;
+					color: black;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #27ae60;
+				}
+			/* FIN CUADRADO */
+			/* CIRCULO */
+				.list-cir-ne-blbg-sigmayor2 li:before {
+					content: "»";
+					color: black;
+					line-height: 22px;
+					padding: 0 4px;
+					margin-right: 5px;
+					background-color: white;
+					border-radius: 22px;
+				}
+			/* FIN CIRCULO */
+			/* VACIO */
+				.list-ne-sigmayor2 li:before {
+					content: "»";
+					color: black;
+					line-height: 22px;
+					padding: 0 6px;
+					margin-right: 5px;
+				}
+			/* FIN VACIO */
+		/* FIN NEGRO */
+
+		/* BLANCO */
+			/* CUADRADO */
+				.list-cua-bl-nebg-sigmayor2 li:before {
+					content: "»";
+					color: white;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: black;
+				}
+				.list-cua-bl-veclbg-sigmayor2 li:before {
+					content: "»";
+					color: white;
+					line-height: 22px;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #2ecc71;
+				}
+
+				.list-cua-bl-veosc-sigmayor2 li:before {
+					content: "»";
+					line-height: 22px;
+					color: white;
+					padding: 0 5px;
+					margin-right: 5px;
+					background-color: #27ae60;
+				}
+			/* FIN CUADRADO */
+			/* CIRCULO */
+				.list-cir-bl-nebg-sigmayor2 li:before {
+					content: "»";
+					color: white;
+					line-height: 22px;
+					padding: 0 4px;
+					margin-right: 5px;
+					background-color: black;
+					border-radius: 22px;
+				}
+			/* FIN CIRCULO */
+			/* VACIO */
+				.list-bl-sigmayor2 li:before {
+					content: "»";
+					color: white;
+					line-height: 22px;
+					padding: 0 6px;
+					margin-right: 5px;
+				}
+			/* FIN VACIO */
+		/* FIN BLANCO */
+	/* FIN SIGMAYOR2 */
 /* ----  FIN ESTILOS PARA LISTAS - ul - ol  ---- */
 
 /* ----  PADDING  ---- */
